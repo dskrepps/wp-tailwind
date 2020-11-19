@@ -33,9 +33,5 @@
 		ol {
 			@apply mt-4 mb-8 leading-normal;
 		}
-
-		p.text-sm {
-			@apply text-sm;
-		}
 	}
 }
